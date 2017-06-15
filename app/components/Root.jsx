@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import HomeContainer from '../containers/HomeContainer';
 
 export default class WinterJokes extends Component {
   constructor() {
@@ -26,6 +27,7 @@ export default class WinterJokes extends Component {
     return (
       <div>
         <h1>Some text or whatever</h1>
+        <HomeContainer />
       </div>
     )
   }
