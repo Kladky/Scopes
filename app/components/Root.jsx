@@ -26,7 +26,7 @@ export default class WinterJokes extends Component {
 
     return (
       <div>
-        <h1>Some text or whatever</h1>
+        <h1>Your horoscope, apparently:</h1>
         <HomeContainer />
       </div>
     )
