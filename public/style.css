@@ -1,0 +1,29 @@
+html {
+  background: url(images/bkg2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Helvetica', sans-serif;
+}
+
+#main {
+  width: 70%;
+  height: 70%;
+  background-color:rgba(0, 0, 0, 0.5);
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand', sans-serif;
+}
