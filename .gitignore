@@ -10,3 +10,6 @@ npm-debug.log
 
 # Ignore all data
 data/*
+
+# DS_Store
+.DS_Store
