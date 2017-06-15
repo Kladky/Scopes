@@ -8,8 +8,8 @@ public/bundle.js.map
 # NPM errors
 npm-debug.log
 
-# Secrets
-secrets.json
+# Ignore all data
+data/*
 
 # DS_Store
 .DS_Store
