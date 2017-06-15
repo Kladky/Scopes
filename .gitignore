@@ -10,3 +10,6 @@ npm-debug.log
 
 # Secrets
 secrets.json
+
+# DS_Store
+.DS_Store
