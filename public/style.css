@@ -27,6 +27,14 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Quicksand', sans-serif;
 }
 
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-weight: lighter;
+}
+
 button {
   border: 2px solid #fff;
   border-radius: 24px;
@@ -39,7 +47,7 @@ button {
 
 button:hover, button:focus {
   background: #fff;
-  color: #000;
+  color: #D60068;
   border: 2px solid #FFF;
   cursor: pointer;
 }
