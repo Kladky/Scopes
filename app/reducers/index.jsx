@@ -15,7 +15,9 @@ export const getTweets = tweets => ({
 // REDUCER:
 
 const initialState = {
-  lifeTweets: []
+  lifeTweets: [],
+  loveTweets: [],
+  careerTweets: []
 }
 
 const rootReducer = function(state = initialState, action) {
@@ -25,7 +27,9 @@ const rootReducer = function(state = initialState, action) {
   switch(action.type) {
 
     case GET_TWEETS:
-      newState.lifeTweets = action.tweets.data;
+      newState.lifeTweets = action.tweets.data[0];
+      newState.loveTweets = action.tweets.data[1];
+      newState.careerTweets = action.tweets.data[2];
       break;
 
     default: return state
