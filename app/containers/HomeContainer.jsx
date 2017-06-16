@@ -4,12 +4,16 @@ import { connect } from 'react-redux';
 
 const mapStateToProps = (state) => {
   return {
-    lifeTweets: state.lifeTweets
+    lifeTweets: state.lifeTweets,
+    loveTweets: state.loveTweets,
+    careerTweets: state.careerTweets
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
+  return {
 
+  };
 };
 
 class HomeContainer extends Component {
