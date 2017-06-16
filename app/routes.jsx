@@ -9,7 +9,7 @@ import { getTweets } from './reducers';
 
 import Root from './components/Root';
 
-const onAppEnter = () => {
+export const refreshTweets = () => {
   axios.get('/api/twitter')
   .then(tweets => store.dispatch(getTweets(tweets)))
 };
@@ -18,7 +18,7 @@ export default function App () {
   return (
     <Provider store={store}>
       <Router history={browserHistory}>
-        <Route path="/" component={Root} onEnter={onAppEnter}>
+        <Route path="/" component={Root} onEnter={refreshTweets}>
         </Route>
       </Router>
     </Provider>
