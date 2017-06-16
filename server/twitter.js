@@ -8,6 +8,7 @@ const config = require('../data/twitter_config')
 const twitter = new Twitter(config)
 
 const filter = new Filter();
+filter.addWords(['nikkas']);
 
 // PROMISIFY TWITTER SEARCH:
 // THIS IS A SEARCH EXAMPLE
@@ -27,17 +28,20 @@ app.get('/', function (req, res, next) {
 
   // SET UP SEARCH TERMS:
   let searchTerms = ["romance", "connect", "regarding", "yourself", "instead", "something", "feeling", "someone", "actions", "perhaps", "especially", "people", "answers", "situations", "communication", "another", "information", "together", "dictate", "pressured"]
-  let randomSeachTerm = searchTerms[Math.floor(Math.random()*searchTerms.length)];
+  let randomLifeTerm = searchTerms[Math.floor(Math.random()*searchTerms.length)];
+  let randomLoveTerm = searchTerms[Math.floor(Math.random()*searchTerms.length)];
+  let randomCareerTerm = searchTerms[Math.floor(Math.random()*searchTerms.length)];
+
   let lifeSearch = {
-    'q': randomSeachTerm + " life",
+    'q': randomLifeTerm + " life",
     'lang': 'en'
   }
   let loveSearch = {
-    'q': randomSeachTerm + " love",
+    'q': randomLoveTerm + " love",
     'lang': 'en'
   }
   let careerSearch = {
-    'q': randomSeachTerm + " career",
+    'q': randomCareerTerm + " career",
     'lang': 'en'
   }
 
@@ -47,7 +51,7 @@ app.get('/', function (req, res, next) {
   let userRegex = /(@\w*\s)/g;
   let userFancyRegex = /(@\w*:\s)/g;
   let elipRegex = /(\s\w*[…])/g;
-  let forbiddenWords = ["trump", "democrat", "democrats", "republicans", "republican", "ESPN", "FIFA", "Supreme Court"];
+  let forbiddenWords = ["Megyn Kelly", "trump", "democrat", "democrats", "republicans", "republican", "ESPN", "FIFA", "Supreme Court"];
 
   // START UP THE ASYNC REQUESTS FOR TWEETS:
   let gettingLifeData = twitterSearchAsync(lifeSearch)
@@ -64,6 +68,8 @@ app.get('/', function (req, res, next) {
         cleanData[i].push(rawData.statuses[j].text)
       }
     }
+
+    console.log("found some results. life: ", cleanData[0].length, " love: ", cleanData[1].length, " career: ", cleanData[2].length );
 
     // remove urls, @s, tweets with forbidden words, etc:
     for(let i = 0; i < cleanData.length; i++) {
@@ -87,7 +93,8 @@ app.get('/', function (req, res, next) {
       }
     }
     res.status(200).send(cleanData)
-  });
+  })
+  .catch(next);
 
 });
 

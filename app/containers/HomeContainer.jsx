@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 import Home from '../components/Home';
 import { connect } from 'react-redux';
+import { getTweets } from '../reducers';
+import { refreshTweets } from '../routes';
+import axios from 'axios';
+import store from '../store';
 
 const mapStateToProps = (state) => {
   return {
@@ -12,7 +16,10 @@ const mapStateToProps = (state) => {
 
 const mapDispatchToProps = (dispatch) => {
   return {
-
+    getTweets () {
+      axios.get('/api/twitter')
+      .then(tweets => store.dispatch(getTweets(tweets)))
+    }
   };
 };
 
@@ -23,6 +30,13 @@ class HomeContainer extends Component {
     // this.state = {
 
     // };
+  }
+
+  componentWillReceiveProps (newProps, oldProps) {
+    console.log("THE NEWEST PROPS: ",newProps);
+    // this.setState({
+
+    // });
   }
 
   render () {
