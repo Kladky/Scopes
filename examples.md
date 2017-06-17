@@ -198,763 +198,142 @@ Your brilliant ideas are just that -- brilliant. Don't be afraid to be shot down
 
 You're no sage, that's for sure. In fact, you're often completely unrealistic when it comes to your notions of the future. That's okay if you stick with the group; they'll keep you grounded in common sense.
 
-# WORDS FROM LIFE
 
-sign
-today
-people
-don't
-feel
-time
-things
-others
-feelings
-problems
-think
-find
-someone
-energy
-confidence
-yourself
-probably
-need
-likely
-everyone
-emotional
-day
-communication
-better
-work
-words
-want
-talk
-something
-share
-self
-issues
-help
-family
-consider
-4 comes
-4 bring
-4 aren't
-3 while
-3 whether
-3 where
-3 what's
-3 those
-3 these
-3 there's
-3 talking
-3 stress
-3 strength
-3 start
-3 situation
-3 same
-3 romance
-3 remember
-3 really
-3 point
-3 over
-3 only
-3 no
-3 minded
-3 long
-3 little
-3 life
-3 inner
-3 huge
-3 history
-3 high
-3 heart
-3 has
-3 handle
-3 going
-3 friends
-3 free
-3 finish
-3 express
-3 expect
-3 easy
-3 easily
-3 dreams
-3 doesn't
-3 could
-3 boost
-3 best
-3 because
-3 aspects
-3 around
-2 you'd
-2 would
-2 wonder
-2 won't
-2 without
-2 within
-2 wise
-2 why
-2 who
-2 whatever
-2 ways
-2 very
-2 usual
-2 use
-2 unresolved
-2 turn
-2 true
-2 toward
-2 today's
-2 thoughts
-2 they're
-2 that's
-2 surprise
-2 suddenly
-2 such
-2 strong
-2 steps
-2 spot
-2 special
-2 speak
-2 solve
-2 soap
-2 simply
-2 similar
-2 she
-2 seem
-2 recent
-2 real
-2 put
-2 prove
-2 preserve
-2 power
-2 plenty
-2 play
-2 place
-2 person
-2 organization
-2 opportunity
-2 opera
-2 open
-2 offer
-2 off
-2 next
-2 needs
-2 move
-2 mood
-2 memories
-2 meet
-2 maybe
-2 matter
-2 made
-2 loved
-2 looks
-2 light
-2 join
-2 involved
-2 interests
-2 however
-2 how
-2 her
-2 give
-2 fun
-2 front
-2 friend
-2 forget
-2 feeling
-2 fact
-2 expression
-2 expressing
-2 entire
-2 else's
-2 either
-2 due
-2 drains
-2 distance
-2 difficult
-2 did
-2 desire
-2 definitely
-2 conversation
-2 connections
-2 complicated
-2 communicative
-2 colleagues
-2 colleague
-2 careful
-2 break
-2 boss
-2 back
-2 away
-2 attitude
-2 ask
-2 apt
-2 approach
-2 appreciate
-2 anyone
-2 added
-2 acquaintances
-2 able
-2 ability
-2 abilities
-1 zoo
-1 yet
-1 wrong
-1 writing
-1 worry
-1 world
-1 working
-1 worked
-1 word
-1 wishing
-1 wish
-1 wisest
-1 window
-1 willing
-1 who'd
-1 white
-1 welcome
-1 weighed
-1 week
-1 waste
-1 waiting
-1 voicemail
-1 vocation
-1 visiting
-1 view
-1 value
-1 vague
-1 vacation
-1 urgency
-1 unless
-1 undoubtedly
-1 understanding
-1 twice
-1 turf
-1 truth
-1 trouble
-1 triggered
-1 trend
-1 tough
-1 topics
-1 top
-1 tonight
-1 tired
-1 times
-1 tightly
-1 throw
-1 thought
-1 though
-1 thing
-1 themselves
-1 their
-1 teeth
-1 task
-1 tangled
-1 taking
-1 takes
-1 tables
-1 sympathetic
-1 sweetheart
-1 sweet
-1 sweep
-1 surrounding
-1 surprising
-1 surprised
-1 surface
-1 sufficient
-1 success
-1 succeed
-1 subconscious
-1 stuck
-1 struggling
-1 stronger
-1 striptease
-1 strides
-1 stride
-1 stream
-1 strangers
-1 stories
-1 stopped
-1 stirrings
-1 stew
-1 step
-1 steel
-1 steady
-1 status
-1 starting
-1 starring
-1 stand
-1 spread
-1 spouse
-1 spontaneous
-1 spirits
-1 spending
-1 spend
-1 speech
-1 specifically
-1 sort
-1 sooner
-1 somewhat
-1 sometimes
-1 something's
-1 solving
-1 solution
-1 society
-1 social
-1 skills
-1 situations
-1 sit
-1 single
-1 sincere
-1 since
-1 simplest
-1 silly
-1 significantly
-1 siblings
-1 sibling
-1 shoulder
-1 short
-1 shopper
-1 shining
-1 session
-1 serious
-1 series
-1 sensitivity
-1 sense
-1 send
-1 seize
-1 seeing
-1 secret
-1 second
-1 seat
-1 scrapbooks
-1 save
-1 said
-1 sadly
-1 run
-1 rules
-1 rule
-1 room
-1 romantic
-1 risks
-1 risk
-1 rise
-1 rid
-1 responsible
-1 responsibility
-1 responses
-1 respected
-1 resolutions
-1 requires
-1 required
-1 require
-1 reluctant
-1 relatively
-1 relative
-1 relationship
-1 relating
-1 regular
-1 regret
-1 regardless
-1 reflects
-1 reflect
-1 reference
-1 record
-1 recognize
-1 reclusive
-1 receptive
-1 reassuring
-1 rearrange
-1 realize
-1 ready
-1 readily
-1 rather
-1 random
-1 quite
-1 quiet
-1 quickly
-1 questions
-1 queen
-1 quality
-1 putting
-1 purchase
-1 pulling
-1 psychotherapist
-1 prospect
-1 project
-1 progress
-1 profile
-1 professional
-1 process
-1 pride
-1 pretend
-1 presence
-1 precious
-1 practical
-1 powerful
-1 planning
-1 planetary
-1 plan
-1 picture
-1 pickle
-1 physical
-1 phone
-1 petty
-1 personal
-1 perhaps
-1 peons
-1 path
-1 passion
-1 pass
-1 party
-1 parts
-1 partner
-1 partially
-1 part
-1 park
-1 parents
-1 parent
-1 paint
-1 painlessly
-1 paid
-1 overhead
-1 overdue
-1 ounce
-1 order
-1 opposite
-1 opinions
-1 operations
-1 ones
-1 once
-1 old
-1 oh
-1 office
-1 obvious
-1 obscure
-1 obligations
-1 notion
-1 notice
-1 nothing
-1 nose
-1 noble
-1 niche
-1 news
-1 new
-1 neurons
-1 nearly
-1 naysayers
-1 nature
-1 mud
-1 moving
-1 month
-1 money
-1 moment
-1 mold
-1 mired
-1 mingle
-1 mindset
-1 mind
-1 messages
-1 mementos
-1 mean
-1 maturity
-1 matters
-1 materially
-1 map
-1 manage
-1 making
-1 magnet
-1 lunch
-1 luck
-1 low
-1 love
-1 lost
-1 lose
-1 looking
-1 look
-1 lives
-1 lively
-1 lists
-1 listening
-1 line
-1 lightly
-1 lifestyle
-1 liable
-1 level
-1 letters
-1 less
-1 leave
-1 learn
-1 latest
-1 lately
-1 last
-1 kingdom
-1 kinds
-1 key
-1 kept
-1 keeps
-1 judgment
-1 journal
-1 its
-1 items
-1 issue
-1 involve
-1 into
-1 intimidated
-1 intimately
-1 interesting
-1 intensity
-1 intellectual
-1 instrumental
-1 instruction
-1 instead
-1 insist
-1 initiative
-1 initiating
-1 information
-1 indicate
-1 independent
-1 improv
-1 impact
-1 illuminate
-1 ignite
-1 humor
-1 hugs
-1 hothead
-1 hot
-1 horizon
-1 hit
-1 him
-1 higher
-1 hesitate
-1 hesitant
-1 heirlooms
-1 heightened
-1 healthy
-1 health
-1 he
-1 happy
-1 hang
-1 hand
-1 guts
-1 guilty
-1 group
-1 ground
-1 gritting
-1 great
-1 gravity
-1 grandparents
-1 gradually
-1 grabbed
-1 grab
-1 gossip
-1 goodwill
-1 globe
-1 glance
-1 glad
-1 getting
-1 gets
-1 generally
-1 general
-1 games
-1 future
-1 frowning
-1 freely
-1 frame
-1 forced
-1 force
-1 flowers
-1 firings
-1 fire
-1 fine
-1 financial
-1 fight
-1 fear
-1 farther
-1 faith
-1 failure
-1 facts
-1 facing
-1 face
-1 extremely
-1 explain
-1 experience
-1 expand
-1 exhausted
-1 exercise
-1 execution
-1 exciting
-1 excited
-1 exception
-1 excellent
-1 examine
-1 exactly
-1 everyone's
-1 ever
-1 events
-1 event
-1 especially
-1 enthusiastic
-1 enthusiasm
-1 enter
-1 entail
-1 energetic
-1 ending
-1 encouraging
-1 emotions
-1 emotionally
-1 embraced
-1 email
-1 elimination
-1 element
-1 effectively
-1 effective
-1 effect
-1 effacing
-1 eat
-1 easier
-1 ear
-1 dynamic
-1 duties
-1 dropping
-1 drop
-1 dream
-1 drawn
-1 draw
-1 dramatic
-1 drama
-1 down
-1 dose
-1 domain
-1 does
-1 display
-1 discussion
-1 discomfort
-1 direct
-1 dilemmas
-1 dig
-1 difficulty
-1 different
-1 differences
-1 die
-1 didn't
-1 dial
-1 developing
-1 detachment
-1 desires
-1 demons
-1 deep
-1 decide
-1 debt
-1 dating
-1 data
-1 damper
-1 cutie
-1 current
-1 cry
-1 crowd
-1 credit
-1 creative
-1 crazy
-1 courage
-1 counting
-1 count
-1 cool
-1 convince
-1 conversations
-1 contrive
-1 content
-1 contagious
-1 concrete
-1 concern
-1 concentrate
-1 compliments
-1 communicate
-1 common
-1 commitment
-1 comforting
-1 comfortable
-1 collecting
-1 clothing
-1 climactic
-1 circumstances
-1 chores
-1 choose
-1 children
-1 chic
-1 check
-1 characters
-1 channels
-1 changing
-1 changes
-1 change
-1 challenge
-1 certain
-1 caught
-1 care
-1 cards
-1 card
-1 car
-1 can't
-1 camaraderie
-1 calls
-1 calling
-1 call
-1 calculation
-1 buy
-1 business
-1 bully
-1 bulldozing
-1 build
-1 brightly
-1 bright
-1 box
-1 bouquet
-1 bothering
-1 bond
-1 bold
-1 blocks
-1 blaze
-1 beyond
-1 becomes
-1 balloons
-1 ball
-1 balance
-1 attract
-1 astral
-1 assets
-1 assess
-1 aspect
-1 asks
-1 asked
-1 area
-1 appointments
-1 apply
-1 apologies
-1 anxiety
-1 anticipate
-1 answered
-1 answer
-1 amends
-1 always
-1 also
-1 alleviate
-1 afterward
-1 affectionate
-1 affection
-1 advice
-1 admit
-1 address
-1 add
-1 activity
-1 actions
-1 acknowledge
-1 accurate
-1 accomplishing
-1 access
-1 accept
-1 accentuated
 
-# GENERAL
+# TWEETS
 
+# Life
+
+Love, laughter & communication are the three essentials to good life, never let them fade
+its tiring to see em against your opinion regarding this issue.
+A lifetime of judgment makes me feel guilty and like people are watching me if I pick up something bad
+not to dictate your life but drop your **** friends
+He learned very early in life how to be a dirtbag, one thing I learned is you can't go through life like that…
+If you're unhappy in life, then you have to DO something major to change it: -Move -Breakup/Get divorced -Quit your job.
+From modern-day hustle and bustle to the serenity of the past #romance #timetravel
+How much of your life have you tried to fit in while feeling like you didn’t?
+song finds the words to express what i've been feeling for a lifetime. the power art has to make you feel understood
+You can't expect someone to stay in your life if you're doing nothing but hurting them
+Retweet to bless someone's timeline.
+No matter how good or bad you think life is, wake up each day and be thankful. Someone somewhere else is fighting.
+Stay strong the future may seem uncertain but you will come out the other side. It may have tough timing.
+I never think of the future. It comes soon enough.
+There are only two options regarding commitment; you're in or you're out. There's no such thing as life in-between...
+Vulnerable life situations.
+Waiting for that future tho... 🔥
+Life is like a camera. Focus on what's important. Capture the good times, Get rid of the negatives.
+The pain and trials you go through now will make a great story in the future.
+Instead of looking down on people inspire someone, change someone's life for the better, encourage someone to reach HIGHER
+I just be tweeting don't try to puzzle my life together lol
+Everything has a frequency. and whatever you're feeling is bringing everything into your life that's on a similar wavelength.
+if ur pals dinny get angrier at ur life situations than u do are they even ur pals
+the colonization of everyday life by information
+Been another perfect day witchya, wanna lay witchya, spend my life witchyaaaa
+Maybe in another lifetime.
+We love woke people.
+Sometimes you go to the doctor & they have no answers -- but then life hands you a free meal voucher so things balance out.
+YOU'RE BEAUTIFUL, I CAN'T BELEIVE IT! NEVER STOP SMILING AND ALWAYS BELEIVE IN YOURSELF, I LOVE YOU.
+probably giving another boy love. Ps: He's not the one for you.
+u take the time u need gramps, u also hav a life other then yt no need to feel pressured <3
+No wrong answers. Although there is a right one.
+We will bring new dimension to your communication and life.
+Quit looking at social media for answers about one's life bc I can guarantee you will not know anything about mine.
+Never laugh at people in **** situations....... you may be the one someday doing the **** shuffle thru life.
+Communication is so important in life.
+I really don't know what the future holds.
+Everything I have and do, I've created and done by and for myself. Kinda hurts now but it's gonna mean a lot in the future.
+Your only obligation in any lifetime is to be true to yourself.
+It really was another lifetime though. To think of how much I've grown in those years is incredible. So much progress made. LOOK AT ME NOW.
+Past is past. Just focus for future.
+i swear i can't explain how much better your life gets when you surround yourself with good energy.
+I can't fault Twitter for trying to make itself pretty instead of solving its catastrophic internal problems bc that's what I'm doing
+I don't know why I try and watch romance anime and then get surprised when I get sad and feel like **** about my life
+Enjoy the ocean wave But watch out for the bandits.
+I thought I knew the answers till the questions changed. #Life #LiveAlive
+Apparently past me knew this would be an issue for me and made my password "priceygarbage"
+
+# Love
+
+Communication + Trust = A relationship that will last a lifetime.
+Past is past. Just focus for future.
+You gotta mix things up and keep things interesting, especially in the bedroom. #Bedroom #Fun #marriage
+U didn't love me or fear loosing me u just ****** UP something good u had going in ur life.
+People can fall in love, get engaged and plan a life together on a GT Bank customer service queue.
+Respect everyone, hate no one and most importantly love yourself.
+I love you -- Thanks!
+New relationship! 🔥🔥🔥
+We can criticize good people for doing bad things.
+Look at the skill you've acquired and not just the field you're pigeonholed into.
+Lack of communication can ruin a lot of good situations.
+Don't love me with words, love me with actions ‼️
+Instead we should be there for one another, show our love.
+The same way YOU can make him smile that reaches his eyes. Something that used to lack.
+Prom is the epitome of a relationship where you feel pressured because you’re not growing at the rate your lover wants you to.
+Without communication, there's no relationship. Without respect, there is no love. Without trust, there's......
+Can these two strangers survive together? #Romance
+The amount of comments I have received regarding prom blows my mind 😭 I love you all so much💕
+God is preparing you for the person praying you into their life! He will connect you!
+It takes a second to say I love you, but actions to show it.
+A kiss is only a kiss until it means something it meant something #Romhero #Romance
+Beautiful girl = good attitude + nice smile + good communication. She will be a good lover for boy who loves her.
+I will never in my life trust another dude.
+Another chapter of my life began since i met you. 🌙
+someone out there will eventually love my ugly ass one day.
+The worst. Especially when you know that yall can't even get back together 💔 Love&light 💕
+SURPRISE YOURSELF 😜 Everyone needs a little romance
+remember; the failure of connections does not dictate your worth. you are not a representation of lovers who could not
+No wrong answers. Although there is a right one.
+Love is wanting that person to be happy no matter what even if you've to walk away and let him be
+I really don't know what the future holds.
+Y'all better stop letting people dictat ya life smh suckas
+I want another one, I love her 😩
+It was the little coincidences that brought them together for a lifetime. ❤️
+someone i love: *doesnt talk to me all day*
+you can't build a relationship on "promises", you gotta build that **** with love, loyalty, effort.
+I do like romance as well but could we skip the ******* and cuddle instead?
+We waste time looking for the perfect lover, instead of creating the perfect love.
+I hate when I meet my future husband and he doesn't ask for my number 😩
+
+# Career
+
+being an entrepreneur is highly pressured but I'm less stressed now that I'm my own boss. Different
+HOPE SOMETHING BETTER AND BIGGER WILL HAPPEN TO HIS CAREER THIS YEAR HE DESERVES SO SO SO MUCH MORE
+Will you be the spark that helps light the fire!
+I'm not saying every dude who's broke but some gonna get it right. Don't let the Internet dictate how you're gonna evolve with your lover.
+Get a supporting partner to push the hustle together #HowToMakeItInLife
+You have disappointed me, now I have doubts on your career.
+It's time to stop saying 'should' and start planning ahead.
+This floor is someone's business.
+When your actions arent driven by strictly *** desires & currency, you will begin to find your true purpose
+Everything I have and do, I've created and done by and for myself. Kinda hurts now but it's gonna mean a lot in the future.
+Past is past. Just focus for future
+plenty people without jobs that got a hustle 😭
+having conversations with 3 people. I feel like a business person xD
+Are you an #Entrepreneur and want an online community with 1400 like minded people?
+Check out CEO on the High Performance Leadership Podcast, sharing career tips, tricks + stories
+Perhaps they should've picked a different profession then? They're trained
+If your career choice is that terrible, fix it.
+Your use of the word penalty is intentionally misleading.
+the change needed regarding these panels is regulatory, not political.
+Especially if we ignore him saying he did it
+If anyone knows something about what's going on there - hit me
+Be kind, #grad--no matter your profession (yes, including/especially law and business!), seek to understand.
+Well done we might see you in a professional capacity.
+Regarding that tweet from yesterday that you have now deleted. You're a disgrace to your profession
+mind your business, make your money & i can promise you... your life will be better instead of worrying about others
+No wrong answers. Although there is a right one.
+There will be many events in the future that will shake weak hands. The key is to be prepared for those events.
+I really don't know what the future holds.
+This summer spend some time thinking seriously about the great possibilities your future holds.
+This career coach advises that if you truly care about growing, you have to put yourself in challenging situations
+Want to get ahead on your application?
+Are college students pressured into a one-size-fits-all career track?
+People who lead private lives are the happiest. never feeling the need to prove anything to anyone. Just you, your career...
+Feeling stressed out by work? Don't assume retirement will automatically resolve the situation.
+As long as I make my OWN money can't no ***** or ***** dictate **** in my life period!
+With 90% unemployment, seems y'all need to work on y'all's vocation instead of telling other what they need to do.
+A valuable insight can be gained by changing the way you look at things
+You can start a coding career without a degree - here's how!
+Why talented employees leave: 1 direct manager 2 no career growth 3 low salary 4 poor communication 5 meaningless projects 6 no recognition
+At a Career Crossroads? Don't Let 'Should' Dictate Your Career #career
 

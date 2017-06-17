@@ -57,7 +57,7 @@ app.get('/', function (req, res, next) {
   let userRegex = /(RT )?(@)\S+/g;
   //let userFancyRegex = /(@\w*:\s)/g;
   let elipRegex = /(\s\w*[…])/g;
-  let forbiddenWords = ["CNN", "conservative", "liberal", "HOLOCAUST", "NFL", "religious freedom", "Melania", "genital", "olympic", "white supremacist", "government", "insurance", "justice", "NHS", "potus", "discount", "FREE Shipping", "USA", "Shane Long", "#JusticeFor", "Jeff Sessions", "Little Mix", "kpop", "officer", "Megyn Kelly", "trump", "testified", "police", "democrat", "democrats", "republicans", "republican", "ESPN", "FIFA", "Supreme Court"];
+  let forbiddenWords = ["Clinton", "Muslim", "Christian", "Jewish", "American", "CNN", "conservative", "liberal", "HOLOCAUST", "NFL", "religious freedom", "Melania", "genital", "olympic", "white supremacist", "government", "insurance", "justice", "NHS", "potus", "discount", "FREE Shipping", "USA", "Shane Long", "#JusticeFor", "Jeff Sessions", "Little Mix", "kpop", "officer", "Megyn Kelly", "trump", "testified", "police", "democrat", "democrats", "republicans", "republican", "ESPN", "FIFA", "Supreme Court"];
 
   // START UP THE ASYNC REQUESTS FOR TWEETS:
   let gettingLifeData = twitterSearchAsync(lifeSearch)

@@ -8,6 +8,9 @@ import store from './store';
 import { getTweets } from './reducers';
 
 import Root from './components/Root';
+import HomeContainer from './containers/HomeContainer';
+import Markov from './components/Markov';
+import NotFound from './components/NotFound';
 
 export const refreshTweets = () => {
   axios.get('/api/twitter')
@@ -19,6 +22,10 @@ export default function App () {
     <Provider store={store}>
       <Router history={browserHistory}>
         <Route path="/" component={Root} onEnter={refreshTweets}>
+          <Route path="/twitter" component={HomeContainer}/>
+          <Route path="/markov" component={Markov}/>
+          <IndexRedirect to="/twitter"/>
+          <Route path='*' component={NotFound} />
         </Route>
       </Router>
     </Provider>
