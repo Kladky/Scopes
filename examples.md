@@ -1,6 +1,6 @@
 # LIFE
 
-You can be quiet and reclusive when it comes to expressing feelings, SIGN. Today may be the exception. The aspects can bring real strength to your communication abilities. You'd be wise to seize the opportunity. Take steps to express your feelings by initiating conversations. Words will come much more easily than usual. If there are problems to handle, you will likely find resolutions.
+You can be quiet and reclusive when it comes to expressing feelings. Today may be the exception. The aspects can bring real strength to your communication abilities. You'd be wise to seize the opportunity. Take steps to express your feelings by initiating conversations. Words will come much more easily than usual. If there are problems to handle, you will likely find resolutions.
 
 When it comes to issues of love and romance, you're likely to be in a tough situation, SIGN. The problem is that it may seem like there's an element of detachment developing. Your partner may be moving away from you instead of toward you. Either that, or you feel that he or she simply isn't relating to you as intimately as you'd like.
 
@@ -184,7 +184,7 @@ Don't expect to make your fortune today, especially if you don't work alone. You
 
 Your pride thwarts all efforts to function today, or so it feels. Every interaction is like a clash of the titans. Keep your ego in check if you want to avoid being overthrown by a younger, stronger god.
 
-Things are somehow different today, even though your regular schedule is unfolding as it should. That little feeling that things have changed will nag you all day long -- unless you find its source. It has to do with money.
+Things are somehow different today, even though your regular schedule is unfolding as it should. That little feeling that things have changed will nag you all day long - unless you find its source. It has to do with money.
 
 You feel connected to everyone today. That could be misleading, though. Just because you think you understand others inside and out doesn't mean you really do. Don't make any assumptions.
 
@@ -194,7 +194,7 @@ You can't expect to handle new problems in old ways. It's possible you can come 
 
 It's important to think positively but you may be taking that attitude a bit too far. Preparing for the future means being ready for outcomes you don't necessarily really expect. Start working on your rainy day fund.
 
-Your brilliant ideas are just that -- brilliant. Don't be afraid to be shot down. People will be impressed with what you've come up with but not with your lack of initiative. Speaking up is your first step.
+Your brilliant ideas are just that - brilliant. Don't be afraid to be shot down. People will be impressed with what you've come up with but not with your lack of initiative. Speaking up is your first step.
 
 You're no sage, that's for sure. In fact, you're often completely unrealistic when it comes to your notions of the future. That's okay if you stick with the group; they'll keep you grounded in common sense.
 
@@ -306,6 +306,7 @@ It's time to stop saying 'should' and start planning ahead.
 This floor is someone's business.
 When your actions arent driven by strictly *** desires & currency, you will begin to find your true purpose
 Everything I have and do, I've created and done by and for myself. Kinda hurts now but it's gonna mean a lot in the future.
+Look at the skill you've acquired and not just the field you're pigeonholed into.
 Past is past. Just focus for future
 plenty people without jobs that got a hustle 😭
 having conversations with 3 people. I feel like a business person xD
@@ -332,6 +333,7 @@ People who lead private lives are the happiest. never feeling the need to prove 
 Feeling stressed out by work? Don't assume retirement will automatically resolve the situation.
 As long as I make my OWN money can't no ***** or ***** dictate **** in my life period!
 With 90% unemployment, seems y'all need to work on y'all's vocation instead of telling other what they need to do.
+Actually, "internet fuckboy" as you call yourself, I happen to love my profession and all aspects of my life. ☺️
 A valuable insight can be gained by changing the way you look at things
 You can start a coding career without a degree - here's how!
 Why talented employees leave: 1 direct manager 2 no career growth 3 low salary 4 poor communication 5 meaningless projects 6 no recognition
