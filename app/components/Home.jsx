@@ -20,6 +20,7 @@ export default function Home (props) {
         <h2><i className="em em-moneybag"></i> Career: </h2>
         <p>{careerScope}</p>
         <button onClick={getTweets}>New horoscope</button>
+        <Link to="/markov"><button className="footer-link">your expanded horoscope</button></Link>
       </div>
     );
 }
