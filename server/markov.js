@@ -28,9 +28,9 @@ app.get('/', function (req, res, next) {
     love: loveSentences,
     career: careerSentences
   }
-  console.log("SENTANCES??????", lifeSentences);
-  console.log("SENTANCES??????", loveSentences);
-  console.log("SENTANCES??????", careerSentences);
+  console.log("LIFE??????", lifeSentences);
+  console.log("LOVE??????", loveSentences);
+  console.log("CAREER??????", careerSentences);
   // let sentences = []
   // for (let i = 0; i<5; i++) {
   //   let newSentance = rmLife.generateSentences(1)

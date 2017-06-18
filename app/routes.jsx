@@ -5,26 +5,31 @@ import axios from 'axios';
 
 import store from './store';
 
-import { getTweets } from './reducers';
+import { getTweets, getMarkov } from './reducers';
 
 import Root from './components/Root';
 import HomeContainer from './containers/HomeContainer';
-import Markov from './components/Markov';
+import MarkovContainer from './containers/MarkovContainer';
 import NotFound from './components/NotFound';
 
-export const refreshTweets = () => {
+export const loadData = () => {
   axios.get('/api/twitter')
   .then(tweets => store.dispatch(getTweets(tweets)))
+
+  axios.get('/api/markov')
+  .then(markov => store.dispatch(getMarkov(markov)))
 };
+
+
 
 export default function App () {
   return (
     <Provider store={store}>
       <Router history={browserHistory}>
-        <Route path="/" component={Root} onEnter={refreshTweets}>
+        <Route path="/" component={Root} onEnter={loadData}>
           <Route path="/twitter" component={HomeContainer}/>
-          <Route path="/markov" component={Markov}/>
-          <IndexRedirect to="/twitter"/>
+          <Route path="/markov" component={MarkovContainer}/>
+          <IndexRedirect to="/markov"/>
           <Route path='*' component={NotFound} />
         </Route>
       </Router>
