@@ -33,6 +33,17 @@ h1 {
 
 p {
   font-weight: lighter;
+  line-height: 20px;
+}
+
+a, a:hover, a:visited, a:active {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 button {
@@ -54,4 +65,8 @@ button:hover, button:focus {
 
 button:active, button:focus {
     box-shadow: none;
+}
+
+button.footer-link {
+    float: right;
 }
