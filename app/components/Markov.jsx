@@ -15,8 +15,8 @@ export default function Markov (props) {
       <p>{loveMarkov}</p>
       <h2><i className="em em-moneybag"></i> Career: </h2>
       <p>{careerMarkov}</p>
-      <button onClick={getMarkov}>New horoscope</button>
-      <Link to="/twitter"><button className="footer-link">your live tweet horoscope</button></Link>
+      <button onClick={getMarkov}>New extended horoscope</button>
+      <Link to="/twitter"><button className="footer-link">Live tweet horoscope</button></Link>
     </div>
   );
 }
