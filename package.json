@@ -10,7 +10,7 @@
     "test": "mocha **/*.test.js *.test.js",
     "build": "webpack",
     "build-watch": "webpack -w",
-    "start": "node server/start.js"
+    "start": "npm run build && node server/start.js"
   },
   "keywords": [
     "react",
