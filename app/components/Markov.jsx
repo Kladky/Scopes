@@ -1,11 +1,19 @@
 import React from 'react';
 import { Link } from 'react-router';
+import shareThis from "share-this";
+import * as twitterSharer from "share-this/dist/sharers/twitter";
 
 export default function Markov (props) {
   const lifeMarkov = props.lifeMarkov.join(" ");
   const loveMarkov = props.loveMarkov.join(" ");
   const careerMarkov = props.careerMarkov.join(" ");
   const getMarkov = props.getMarkov;
+
+  const selectionShare = shareThis({
+    sharers: [ twitterSharer ]
+  });
+
+  selectionShare.init();
 
   return (
     <div>
