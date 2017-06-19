@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Hopefully a twitter-based horoscope generator",
   "main": "index.js",
+  "engines": {
+    "node": ">= 7.0.0"
+  },
   "scripts": {
     "test": "mocha **/*.test.js *.test.js",
     "build": "webpack",
