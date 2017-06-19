@@ -21,4 +21,4 @@ My original idea was to search for these tweets on the fly and then compose them
 
 In the expanded view, you can see longer horoscope texts. These are based on tweets I found through the method above, as well as real horoscope texts. The output is composed using a markov chain.
 
-# Check it out: https://twitterscopes.herokuapp.com
+### Check it out: https://twitterscopes.herokuapp.com
