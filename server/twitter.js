@@ -4,7 +4,14 @@ const app = require('express').Router()
 const Filter = require('bad-words')
 const Promise = require('bluebird');
 const Twitter = require('twitter-node-client').Twitter
-const config = require('../data/twitter_config')
+//const config = require('../data/twitter_config')
+const config = {
+       "consumerKey": env.consumerKey,
+       "consumerSecret": env.consumerSecret,
+       "accessToken": env.accessToken,
+       "accessTokenSecret": env.accessTokenSecret,
+       "callBackUrl": env.callBackUrl
+}
 const twitter = new Twitter(config)
 
 const filter = new Filter();
