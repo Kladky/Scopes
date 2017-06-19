@@ -33,10 +33,7 @@ class HomeContainer extends Component {
   }
 
   componentWillReceiveProps (newProps, oldProps) {
-    console.log("THE NEWEST PROPS: ",newProps);
-    // this.setState({
 
-    // });
   }
 
   render () {

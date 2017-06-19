@@ -28,8 +28,8 @@ export default function App () {
       <Router history={browserHistory}>
         <Route path="/" component={Root} onEnter={loadData}>
           <Route path="/twitter" component={HomeContainer}/>
-          <Route path="/markov" component={MarkovContainer}/>
-          <IndexRedirect to="/markov"/>
+          <Route path="/extended" component={MarkovContainer}/>
+          <IndexRedirect to="/extended"/>
           <Route path='*' component={NotFound} />
         </Route>
       </Router>
