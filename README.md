@@ -6,3 +6,5 @@ This project has two basic ideas:
 2. Humans like to share trite, generic advice on Twitter sometimes.
 
 This site generates a horoscope based on tweets
+
+Check it out: https://twitterscopes.herokuapp.com
